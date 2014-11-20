@@ -1,0 +1,7 @@
+{
+"name": "LedControl-MAX7219-MAX7221",
+"author": "Christian Loris <christian.loris@gmail.com>",
+"license": "GNU GPL v3",
+"version": "0.0.10",
+"description": "Port of Eberhard Fahle's LedControl library for controlling the MAX7219/MAX7221 for the Spark Core."
+}
