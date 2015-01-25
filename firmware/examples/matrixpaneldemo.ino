@@ -1,5 +1,5 @@
 // This #include statement was automatically added by the Spark IDE.
-#include "LedControl-MAX7219-MAX7221.h"
+#include "LedControl-MAX7219-MAX7221/LedControl-MAX7219-MAX7221.h"
 
 LedControl *led;
 int phase = 0;
